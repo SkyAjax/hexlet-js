@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "First npm init for first hexlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyAjax/hexlet-js.git"
+  },
+  "author": "Sergei Ruban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyAjax/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/SkyAjax/hexlet-js#readme"
+}
